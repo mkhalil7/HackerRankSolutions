@@ -1,3 +1,3 @@
 # HackerRankSolutions
 
-Repository to store all my solution for HackerRank exercises
+Repository to store all my solutions for HackerRank exercises
